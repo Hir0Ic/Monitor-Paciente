@@ -1,0 +1,10 @@
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\bin\Debug\Monitor_Paciente_Simulador.exe.config
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\bin\Debug\Monitor_Paciente_Simulador.exe
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\bin\Debug\Monitor_Paciente_Simulador.pdb
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.csproj.AssemblyReference.cache
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.Form1.resources
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.Properties.Resources.resources
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.exe
+C:\Users\Marco\source\repos\Monitor_Paciente_Simulador\obj\Debug\Monitor_Paciente_Simulador.pdb
